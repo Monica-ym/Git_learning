@@ -1,3 +1,2 @@
 This is my first git created file.
 And it uses the vim editor to write in.
-Here i have added a new line!
